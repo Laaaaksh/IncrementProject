@@ -1,0 +1,27 @@
+body{
+    background: url(https://cdn.wallpapersafari.com/34/54/jJafGN.png);
+}
+p{
+    font-size: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+#increment-button{
+    background: darkred;
+}
+#set-btn{
+    background: chocolate;
+}
+#reset-el{
+    background: lightcoral;
+}
